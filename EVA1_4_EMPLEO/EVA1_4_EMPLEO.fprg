@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_4_EMPLEO"/>
+        <attribute name="authors" value="MARIA"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 11:54:08 p. m."/>
+        <attribute name="created" value="TUFSSUE7REVTS1RPUC1NOFVOUkJBOzIwMjUtMDgtMjY7MTE6NTA6NDYgcC4gbS47MjkyOA=="/>
+        <attribute name="edited" value="TUFSSUE7REVTS1RPUC1NOFVOUkJBOzIwMjUtMDgtMjY7MTE6NTQ6MDggcC4gbS47MTszMDM4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EJERCICIO: &quot;" newline="True"/>
+            <output expression="&quot;EMPLEO: &quot;" newline="False"/>
+            <output expression="&quot;PESCADOR&quot;" newline="True"/>
+            <output expression="&quot;SALARIO: &quot;" newline="False"/>
+            <output expression="&quot;500 MONEDAS&quot;" newline="True"/>
+            <output expression="&quot;HORAS A LA SEMANA: &quot;" newline="False"/>
+            <output expression="&quot;40 HORAS&quot;" newline="True"/>
+            <output expression="&quot;&#191;REQUIERE INGL&#201;S? &quot;" newline="False"/>
+            <output expression="&quot;S&#205;, Y HABLAR PEZ TAMBI&#201;N&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

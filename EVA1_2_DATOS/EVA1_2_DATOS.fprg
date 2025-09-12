@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_2_DATOS"/>
+        <attribute name="authors" value="MARIA"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 12:18:08 a. m."/>
+        <attribute name="created" value="TUFSSUE7REVTS1RPUC1NOFVOUkJBOzIwMjUtMDgtMjc7MTI6MTI6MjggYS4gbS47MjkxMw=="/>
+        <attribute name="edited" value="TUFSSUE7REVTS1RPUC1NOFVOUkJBOzIwMjUtMDgtMjc7MTI6MTg6MDggYS4gbS47MjszMDI2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;MARIANA ACOSTA&quot;" newline="True"/>
+            <output expression="&quot;1000&quot;" newline="True"/>
+            <output expression="&quot;3.1416&quot;" newline="True"/>
+            <output expression="&quot;true&quot;" newline="True"/>
+            <output expression="&quot;'A'&quot;" newline="True"/>
+            <output expression="&quot;A&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
